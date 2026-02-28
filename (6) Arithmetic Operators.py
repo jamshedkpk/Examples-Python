@@ -1,4 +1,6 @@
-# Operators are symbols used to perform operations on variables and values
+# Operators are symbols used to perform operations on variables
+# And values
+
 # Arithmetic operators
 
 # For addition
